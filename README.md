@@ -10,7 +10,7 @@ Been interested in computers ever since I fixed the red ring on my Xbox, was all
 * ✉️  You can contact me at [paulwasilewicz@gmail.com](mailto:paulwasilewicz@gmail.com)
 * 🧠  I'm learning React
 * 🤝  I'm open to collaborating on anything really
-* ⚡  kind of a decent chess player, love to boulder in my spare time.
+* ⚡  kind of a decent chess player, love to boulder in my spare time. Couple of my web dev demos here -> https://guapomopo.github.io/todoList/ https://guapomopo.github.io/library https://guapomopo.github.io/etchaSketch/
 
 ### Skills
 
