@@ -4,7 +4,7 @@ Hi 👋 My name is Paul Wasilewicz
 Software Developer/Web Developer
 --------------------------------
 
-Been interested in computers ever since I fixed the red ring on my Xbox, was all uphill from there. Computer Science grad from the University. Been coding ever since, I'm looking to join a passionate team of devs to expand my skills!
+Been interested in computers ever since I fixed the red ring on my Xbox, was all uphill from there. Computer Science grad from the University of Guelph. Been coding ever since, I'm looking to join a passionate team of devs to expand my skills!
 
 * 🌍  I'm based in Ontario, Canada
 * ✉️  You can contact me at [paulwasilewicz@gmail.com](mailto:paulwasilewicz@gmail.com)
