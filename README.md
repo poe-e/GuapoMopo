@@ -8,7 +8,7 @@ Been interested in computers ever since I fixed the red ring on my Xbox, was all
 
 * 🌍  I'm based in Ontario, Canada
 * ✉️  You can contact me at [paulwasilewicz@gmail.com](mailto:paulwasilewicz@gmail.com)
-* 🧠  I'm learning React
+* 🧠  I'm learning Svelte Kit since new updates just came out and it looks exciting
 * 🤝  I'm open to collaborating on anything really
 * ⚡  kind of a decent chess player, love to boulder in my spare time. Couple of my web dev demos here -> 
 https://guapomopo.github.io/
